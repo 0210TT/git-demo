@@ -6,5 +6,6 @@ public class demo {
         System.out.println("dev分支初始化操作");
         System.out.println("主干初始化分支操作！");
         System.out.println("dev初始化分支操作结束！");
+        System.out.println("c2操作结束！");
     }
 }
