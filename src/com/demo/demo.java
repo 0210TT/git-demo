@@ -8,5 +8,6 @@ public class demo {
         System.out.println("dev初始化分支操作结束！");
         System.out.println("c1操作结束");
         System.out.println("c1操作结束2");
+        System.out.println("c1操作  再次开始");
     }
 }
